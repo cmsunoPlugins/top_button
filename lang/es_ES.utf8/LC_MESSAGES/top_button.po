@@ -1,0 +1,110 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CmsUno\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-02-06 16:21+0100\n"
+"PO-Revision-Date: 2017-02-06 16:21+0100\n"
+"Last-Translator: jacques Malgrange <contacter@boiteasite.fr>\n"
+"Language-Team: Jacques Malgrange <contacter@boiteasite.fr>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Report-\tmsgstr-Bugs-To: \n"
+"Report-\t\tmsgstr-Bugs-To: \n"
+"X-Poedit-KeywordsList: _;T_\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Country: SPAIN\n"
+"X-Poedit-SourceCharset: iso-8859-1\n"
+"X-Poedit-Language: Spanish\n"
+"X-Poedit-SearchPath-0: ../../..\n"
+
+#: ../../../top_button.php:29
+msgid "Top Button"
+msgstr "Top Button"
+
+#: ../../../top_button.php:31
+msgid "This plugin adds a floating button in the bottom right of the page to return smoothly to the top."
+msgstr "Este plugin añade un botón flotante en la parte inferior derecha de la página para volver sin problemas a la parte superior."
+
+#: ../../../top_button.php:32
+msgid "JQuery is needed."
+msgstr "JQuery es necesario."
+
+#: ../../../top_button.php:33
+msgid "Settings"
+msgstr "Ajustes"
+
+#: ../../../top_button.php:36
+msgid "Button color"
+msgstr "Color del boton"
+
+#: ../../../top_button.php:38
+msgid "Background color for the button."
+msgstr "Color de fondo para el botón."
+
+#: ../../../top_button.php:41
+msgid "Save settings"
+msgstr "Guardar ajustes"
+
+#: ../../../top_button.php:41
+msgid "Save"
+msgstr "Guardar"
+
+#: ../../../top_button.php:50
+msgid "Backup performed"
+msgstr "Copia de seguridad realizada"
+
+#: ../../../top_button.php:51
+msgid "Impossible backup"
+msgstr "Copia de seguridad Imposible"
+
+#~ msgid "Box"
+#~ msgstr "Box"
+
+#~ msgid ""
+#~ "This plugin allows you to add small blocks of content. For example: a "
+#~ "date, an address, a phone number."
+#~ msgstr ""
+#~ "Este plugin te permite agregar pequeños bloques de contenido. Por "
+#~ "ejemplo: una fecha, una dirección, un número de teléfono."
+
+#~ msgid ""
+#~ "It can also add a big HTML content as a sidebar or something else. For "
+#~ "this you should choose HTML editor."
+#~ msgstr ""
+#~ "También puede añadir un contenido HTML del tamaño de una barra lateral o "
+#~ "algo más. Para ello se debe elegir editor HTML."
+
+#~ msgid "Just insert the code"
+#~ msgstr "Sólo tiene que insertar el código"
+
+#~ msgid "nameofthebox"
+#~ msgstr "nombredelacaja"
+
+#~ msgid "in the template or in the page content."
+#~ msgstr "en la plantilla o en el contenido de la página."
+
+#~ msgid "You can create as many box as you need."
+#~ msgstr "Puede crear tantos cuadro como usted necesita."
+
+#~ msgid "Add a box :"
+#~ msgstr "Agregue un caja :"
+
+#~ msgid "Name of the box"
+#~ msgstr "Nombre de la caja"
+
+#~ msgid "Plain text"
+#~ msgstr "Texto sin formato"
+
+#~ msgid "HTML Editor"
+#~ msgstr "Editor de HTML"
+
+#~ msgid "Add the box"
+#~ msgstr "Añadir la caja"
+
+#~ msgid "Add"
+#~ msgstr "Añadir"
+
+#~ msgid "Existing boxes :"
+#~ msgstr "Cajas existentes :"
