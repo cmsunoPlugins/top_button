@@ -24,11 +24,11 @@ u::::::::::::::u  n::::n    n::::n  o:::::ooooo:::::o
 ## Top Button ##
 
 Adds a floating button at the bottom right of the page to return smoothly to the top.
-JQuery needed.
 
 [CMSUno](https://github.com/boiteasite/cmsuno)
 
 ### Versions ###
 
+* 1.1 - 01/12/2022 : Remove JQuery (back and front office)
 * 1.0.1 - 15/03/2017 : Fix issue when unknow lang
 * 1.0 - 06/02/2017 : First stable version
